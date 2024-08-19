@@ -1,0 +1,52 @@
+.menu{
+
+    display: flex;
+    width: 99%;
+    justify-content:space-around;
+    background-color: #00859c;
+    margin:  0 auto;
+
+    
+
+
+}
+
+.logo{
+     padding: 1.1rem;
+     color: aliceblue;
+     font-size: 20px;
+}
+
+.lista-link{
+
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.lista-link li {
+    padding: .5rem;
+}
+
+.lista-link li:hover {
+
+   
+    cursor: pointer;
+    text-decoration: dashed;
+}
+
+.lista-link li a {
+
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+
+.lista-link li a:hover {
+
+    text-decoration: underline;
+    color:    #19d14e   ;
+    width: 80px;
+    font-size: 17px ;
+}

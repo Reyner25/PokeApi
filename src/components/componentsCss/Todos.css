@@ -1,0 +1,42 @@
+.titulo{
+
+    color:  #d3d4ca ;
+    width: 30%;
+    margin: 3rem auto;
+
+}
+
+
+
+.listadoPokemones{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    gap: 15px;
+    width: 70%;
+
+    margin: 20px auto;
+    background-color: #716868;
+    padding: 2rem ;
+   
+}
+
+.imgPokemon{
+
+    width: 300px;
+    height: 250px;
+}
+
+.pokemon{
+
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+
+.pokemon  p {
+        font-size: 20px;
+        color: blanchedalmond;
+        text-decoration: none;
+}
+

@@ -1,0 +1,97 @@
+.TodosDetalle{
+
+    display: flex;
+    align-items: center;
+  
+}
+
+.btnAnterior{
+
+    height: 90px;
+    width: 90px;
+  
+    margin:  auto;
+    margin-left: 25%;
+    font-size: 3rem;
+
+    background-color: red;     
+    border:none;
+    border-radius: 50px;
+    
+}
+
+.flechaAnterior{
+
+    color: blanchedalmond;
+}
+
+
+.detallePokemon{
+
+    width: 30%;
+    margin: 10px auto;
+    background-color:   #dcff00    ;
+    padding: 1rem;
+
+    border-radius: 5px;
+   
+}
+
+.headerPokemon{
+
+    display: flex;
+    justify-content: space-between;
+}
+.txtNombrePokemon{
+
+    font-size: 30px;
+    color: black;
+}
+
+.txtExperiencia{
+
+    font-size: 30px;
+    color: black;
+}
+
+.imgPokemonDetalles{
+
+    width: 300px;
+    height: 350px;
+    margin: 0 auto;
+    padding-left: 40px; 
+    padding:0 auto ;
+}
+
+.txtTipo{
+
+    color: black;
+    font-size: 20px;
+}
+
+.txtHabilidad{
+
+    color:black;
+    font-size: 20px;
+}
+
+
+.btnSiguiente{
+
+    height: 90px;
+    width: 90px;
+  
+    margin:  auto;
+    margin-right: 25%;
+    font-size: 3rem;
+
+    background-color: red;     
+    border:none;
+    border-radius: 50px;
+}
+
+.flechaSiguiente{
+
+    
+    color: white;
+}

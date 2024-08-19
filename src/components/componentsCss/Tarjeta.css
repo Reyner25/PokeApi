@@ -1,0 +1,26 @@
+.tarjeta-pokemon{
+
+    width:20% ;
+    margin: 2rem auto;
+    background-color:#353a3c;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        
+}
+
+
+.imagen{
+    
+    width: 200px;
+    height: 250px ;
+
+}
+
+.botones{
+    
+    display:flex ;
+    gap: 30px ;
+
+}
